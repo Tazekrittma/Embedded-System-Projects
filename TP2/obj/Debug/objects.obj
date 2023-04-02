@@ -1,0 +1,1 @@
+obj\\Debug\\Setup\\startup.o obj\\Debug\\Src\\Lib_glcd.o obj\\Debug\\Src\\Lib_gpio.o obj\\Debug\\Src\\main.o obj\\Debug\\Src\\stm32f4xx_gpio.o obj\\Debug\\Src\\stm32f4xx_rcc.o obj\\Debug\\Src\\system_stm32f4xx.o 

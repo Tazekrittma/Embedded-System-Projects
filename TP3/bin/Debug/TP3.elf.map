@@ -1,0 +1,1090 @@
+Archive member included because of file (symbol)
+
+c:/program files (x86)/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-__atexit.o)
+                              c:/program files (x86)/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m/crt0.o (__register_exitproc)
+c:/program files (x86)/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-exit.o)
+                              c:/program files (x86)/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m/crt0.o (exit)
+c:/program files (x86)/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-fini.o)
+                              c:/program files (x86)/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m/crt0.o (__libc_fini_array)
+c:/program files (x86)/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-impure.o)
+                              c:/program files (x86)/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-__atexit.o) (_global_impure_ptr)
+c:/program files (x86)/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-init.o)
+                              c:/program files (x86)/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m/crt0.o (__libc_init_array)
+c:/program files (x86)/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-memset.o)
+                              c:/program files (x86)/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m/crt0.o (memset)
+c:/program files (x86)/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-__call_atexit.o)
+                              c:/program files (x86)/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-exit.o) (__call_exitprocs)
+c:/program files (x86)/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-atexit.o)
+                              c:/program files (x86)/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-__call_atexit.o) (atexit)
+
+Discarded input sections
+
+ .text          0x00000000        0x0 c:/program files (x86)/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/armv7e-m/crti.o
+ .data          0x00000000        0x0 c:/program files (x86)/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/armv7e-m/crti.o
+ .bss           0x00000000        0x0 c:/program files (x86)/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/armv7e-m/crti.o
+ .data          0x00000000        0x4 c:/program files (x86)/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/armv7e-m/crtbegin.o
+ .text          0x00000000       0x70 c:/program files (x86)/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m/crt0.o
+ .data          0x00000000        0x0 c:/program files (x86)/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m/crt0.o
+ .bss           0x00000000        0x0 c:/program files (x86)/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m/crt0.o
+ .ARM.extab     0x00000000        0x0 c:/program files (x86)/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m/crt0.o
+ .ARM.exidx     0x00000000        0x8 c:/program files (x86)/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m/crt0.o
+ .ARM.attributes
+                0x00000000       0x1c c:/program files (x86)/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m/crt0.o
+ .data          0x00000000        0x0 obj\Debug\Setup\startup.o
+ .bss           0x00000000        0x0 obj\Debug\Setup\startup.o
+ .data          0x00000000        0x0 obj\Debug\Src\Lib_clock.o
+ .data          0x00000000        0x0 obj\Debug\Src\Lib_glcd.o
+ .bss           0x00000000        0x0 obj\Debug\Src\Lib_glcd.o
+ .data          0x00000000        0x0 obj\Debug\Src\Lib_gpio.o
+ .data          0x00000000        0x0 obj\Debug\Src\main.o
+ .bss           0x00000000        0x0 obj\Debug\Src\main.o
+ .data          0x00000000        0x0 obj\Debug\Src\misc.o
+ .bss           0x00000000        0x0 obj\Debug\Src\misc.o
+ .data          0x00000000        0x0 obj\Debug\Src\stm32f4xx_exti.o
+ .bss           0x00000000        0x0 obj\Debug\Src\stm32f4xx_exti.o
+ .data          0x00000000        0x0 obj\Debug\Src\stm32f4xx_gpio.o
+ .bss           0x00000000        0x0 obj\Debug\Src\stm32f4xx_gpio.o
+ .data          0x00000000        0x0 obj\Debug\Src\stm32f4xx_pwr.o
+ .bss           0x00000000        0x0 obj\Debug\Src\stm32f4xx_pwr.o
+ .bss           0x00000000        0x0 obj\Debug\Src\stm32f4xx_rcc.o
+ .data          0x00000000        0x0 obj\Debug\Src\stm32f4xx_rtc.o
+ .bss           0x00000000        0x0 obj\Debug\Src\stm32f4xx_rtc.o
+ .text          0x00000000      0x1f0 obj\Debug\Src\system_stm32f4xx.o
+ .data          0x00000000        0x4 obj\Debug\Src\system_stm32f4xx.o
+ .bss           0x00000000        0x0 obj\Debug\Src\system_stm32f4xx.o
+ .debug_info    0x00000000      0x56d obj\Debug\Src\system_stm32f4xx.o
+ .debug_abbrev  0x00000000      0x125 obj\Debug\Src\system_stm32f4xx.o
+ .debug_loc     0x00000000       0x90 obj\Debug\Src\system_stm32f4xx.o
+ .debug_aranges
+                0x00000000       0x20 obj\Debug\Src\system_stm32f4xx.o
+ .debug_line    0x00000000      0x135 obj\Debug\Src\system_stm32f4xx.o
+ .debug_str     0x00000000      0x320 obj\Debug\Src\system_stm32f4xx.o
+ .comment       0x00000000       0x71 obj\Debug\Src\system_stm32f4xx.o
+ .ARM.attributes
+                0x00000000       0x33 obj\Debug\Src\system_stm32f4xx.o
+ .debug_frame   0x00000000       0x60 obj\Debug\Src\system_stm32f4xx.o
+ .text          0x00000000        0x0 c:/program files (x86)/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-__atexit.o)
+ .data          0x00000000        0x0 c:/program files (x86)/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-__atexit.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-__atexit.o)
+ .text          0x00000000        0x0 c:/program files (x86)/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-exit.o)
+ .data          0x00000000        0x0 c:/program files (x86)/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-exit.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-exit.o)
+ .text.exit     0x00000000       0x20 c:/program files (x86)/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-exit.o)
+ .ARM.attributes
+                0x00000000       0x2e c:/program files (x86)/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-exit.o)
+ .debug_frame   0x00000000       0x28 c:/program files (x86)/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-exit.o)
+ .text          0x00000000        0x0 c:/program files (x86)/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-fini.o)
+ .data          0x00000000        0x0 c:/program files (x86)/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-fini.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-fini.o)
+ .text          0x00000000        0x0 c:/program files (x86)/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-impure.o)
+ .data          0x00000000        0x0 c:/program files (x86)/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-impure.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-impure.o)
+ .data._impure_ptr
+                0x00000000        0x4 c:/program files (x86)/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-impure.o)
+ .text          0x00000000        0x0 c:/program files (x86)/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-init.o)
+ .data          0x00000000        0x0 c:/program files (x86)/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-init.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-init.o)
+ .text.__libc_init_array
+                0x00000000       0x94 c:/program files (x86)/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-init.o)
+ .ARM.attributes
+                0x00000000       0x2e c:/program files (x86)/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-init.o)
+ .debug_frame   0x00000000       0x30 c:/program files (x86)/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-init.o)
+ .text          0x00000000        0x0 c:/program files (x86)/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-memset.o)
+ .data          0x00000000        0x0 c:/program files (x86)/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-memset.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-memset.o)
+ .text.memset   0x00000000      0x12c c:/program files (x86)/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-memset.o)
+ .ARM.attributes
+                0x00000000       0x2e c:/program files (x86)/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-memset.o)
+ .debug_frame   0x00000000       0x2c c:/program files (x86)/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-memset.o)
+ .text          0x00000000        0x0 c:/program files (x86)/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-__call_atexit.o)
+ .data          0x00000000        0x0 c:/program files (x86)/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-__call_atexit.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-__call_atexit.o)
+ .text.__call_exitprocs
+                0x00000000      0x288 c:/program files (x86)/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-__call_atexit.o)
+ .text          0x00000000        0x0 c:/program files (x86)/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-atexit.o)
+ .data          0x00000000        0x0 c:/program files (x86)/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-atexit.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-atexit.o)
+ .text          0x00000000        0x0 c:/program files (x86)/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/armv7e-m/crtend.o
+ .data          0x00000000        0x0 c:/program files (x86)/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/armv7e-m/crtend.o
+ .bss           0x00000000        0x0 c:/program files (x86)/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/armv7e-m/crtend.o
+ .text          0x00000000        0x0 c:/program files (x86)/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/armv7e-m/crtn.o
+ .data          0x00000000        0x0 c:/program files (x86)/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/armv7e-m/crtn.o
+ .bss           0x00000000        0x0 c:/program files (x86)/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/armv7e-m/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+FLASH            0x08000000         0x00100000         xr
+RAM              0x20000000         0x00020000         xrw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD c:/program files (x86)/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/armv7e-m/crti.o
+LOAD c:/program files (x86)/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/armv7e-m/crtbegin.o
+LOAD c:/program files (x86)/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m/crt0.o
+LOAD obj\Debug\Setup\startup.o
+LOAD obj\Debug\Src\Lib_clock.o
+LOAD obj\Debug\Src\Lib_glcd.o
+LOAD obj\Debug\Src\Lib_gpio.o
+LOAD obj\Debug\Src\main.o
+LOAD obj\Debug\Src\misc.o
+LOAD obj\Debug\Src\stm32f4xx_exti.o
+LOAD obj\Debug\Src\stm32f4xx_gpio.o
+LOAD obj\Debug\Src\stm32f4xx_pwr.o
+LOAD obj\Debug\Src\stm32f4xx_rcc.o
+LOAD obj\Debug\Src\stm32f4xx_rtc.o
+LOAD obj\Debug\Src\system_stm32f4xx.o
+START GROUP
+LOAD c:/program files (x86)/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/armv7e-m\libgcc.a
+LOAD c:/program files (x86)/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libc.a
+END GROUP
+LOAD c:/program files (x86)/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/armv7e-m/crtend.o
+LOAD c:/program files (x86)/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/armv7e-m/crtn.o
+                0x00001000                _Min_Heap_Size = 0x1000
+                0x00000800                _Min_Stack_Size = 0x800
+
+.text           0x08000000     0x578c
+ *(.isr_vector)
+ .isr_vector    0x08000000      0x188 obj\Debug\Setup\startup.o
+                0x08000000                __isr_vector
+ *(.text*)
+ .text          0x08000188       0x54 c:/program files (x86)/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/armv7e-m/crtbegin.o
+ .text          0x080001dc       0x5c obj\Debug\Setup\startup.o
+                0x080001dc                Reset_Handler
+                0x08000224                NMI_Handler
+                0x08000226                HardFault_Handler
+                0x08000228                MemManage_Handler
+                0x0800022a                BusFault_Handler
+                0x0800022c                UsageFault_Handler
+                0x0800022e                SVC_Handler
+                0x08000230                DebugMon_Handler
+                0x08000232                PendSV_Handler
+                0x08000234                SysTick_Handler
+                0x08000236                DEF_IRQHandler
+                0x08000236                Default_Handler
+ .text          0x08000238      0x3b0 obj\Debug\Src\Lib_clock.o
+                0x08000238                LibClock_Init
+                0x08000390                LibClock_GetTime
+                0x080003ac                LibClock_SetTime
+                0x080003c8                LibClock_GetDate
+                0x080003e4                LibClock_SetDate
+                0x08000400                LibClock_GetAlarm
+                0x08000420                LibClock_SetAlarm
+                0x08000494                LibClock_CmdAlarm
+                0x080004b4                LibClock_OnAlarm
+                0x080004f4                DecToBcd
+                0x0800054c                BcdToDec
+                0x08000588                RTC_ALARM_Handler
+ .text          0x080005e8      0x610 obj\Debug\Src\Lib_glcd.o
+                0x080005e8                GLCD_Delay
+                0x08000618                GLCD_SelectSide
+                0x0800067c                GLCD_Command
+                0x0800070c                GLCD_DataWrite
+                0x0800079c                GLCD_WaitBusy
+                0x08000860                GLCD_Move
+                0x080008a0                GLCD_WriteChar
+                0x080008f0                GLCD_Write
+                0x0800092c                GLCD_ShowInt
+                0x080009f8                GLCD_ClearScreen
+                0x08000aac                GLCD_InitPorts
+                0x08000b44                GLCD_InitDisplay
+ .text          0x08000bf8      0x7a8 obj\Debug\Src\Lib_gpio.o
+                0x08000bf8                Lib_delay
+                0x08000c24                LibGPIO_Conf
+                0x08000d24                GPIO_Writelow
+                0x08000d60                GPIO_WriteHigh
+                0x08000da0                LibGPIO_Init
+                0x08000ddc                LibGPIO_InitAlternate
+                0x08000e90                LibGPIO_DeInit
+                0x08000f24                LibGPIO_SetPinAsInput
+                0x08000f7c                LibGPIO_SetPinAsOutput
+                0x08000fe4                LibGPIO_SetPinAsAnalog
+                0x08001038                LibGPIO_SetPinAsAlternate
+                0x080010a4                LibGPIO_SetPullResistor
+                0x08001114                LibGPIO_Lock
+                0x0800114c                LibGPIO_GetPinSource
+                0x08001184                LibGPIO_GetPortSource
+                0x080011a8                LibGPIO_INT_EnableClock
+                0x080011e0                LibGPIO_INT_DisableClock
+                0x0800121c                LibGPIO_INT_Init
+                0x08001348                LibGPIO_GetUsedPins
+                0x08001370                LibGPIO_GetFreePins
+ .text          0x080013a0      0x678 obj\Debug\Src\main.o
+                0x080013a0                main
+ .text          0x08001a18      0x1d8 obj\Debug\Src\misc.o
+                0x08001a18                NVIC_PriorityGroupConfig
+                0x08001a40                NVIC_Init
+                0x08001b24                NVIC_SetVectorTable
+                0x08001b50                NVIC_SystemLPConfig
+                0x08001ba4                SysTick_CLKSourceConfig
+ .text          0x08001bf0      0x2a4 obj\Debug\Src\stm32f4xx_exti.o
+                0x08001bf0                EXTI_DeInit
+                0x08001c44                EXTI_Init
+                0x08001d7c                EXTI_StructInit
+                0x08001db0                EXTI_GenerateSWInterrupt
+                0x08001ddc                EXTI_GetFlagStatus
+                0x08001e18                EXTI_ClearFlag
+                0x08001e38                EXTI_GetITStatus
+                0x08001e74                EXTI_ClearITPendingBit
+ .text          0x08001e94      0x58c obj\Debug\Src\stm32f4xx_gpio.o
+                0x08001e94                GPIO_DeInit
+                0x0800205c                GPIO_Init
+                0x080021a0                GPIO_StructInit
+                0x080021dc                GPIO_PinLockConfig
+                0x08002220                GPIO_ReadInputDataBit
+                0x0800225c                GPIO_ReadInputData
+                0x08002278                GPIO_ReadOutputDataBit
+                0x080022b4                GPIO_ReadOutputData
+                0x080022d0                GPIO_SetBits
+                0x080022ec                GPIO_ResetBits
+                0x08002308                GPIO_WriteBit
+                0x08002338                GPIO_Write
+                0x08002354                GPIO_ToggleBits
+                0x08002378                GPIO_PinAFConfig
+ .text          0x08002420      0x3ec obj\Debug\Src\stm32f4xx_pwr.o
+                0x08002420                PWR_DeInit
+                0x08002440                PWR_BackupAccessCmd
+                0x08002460                PWR_PVDLevelConfig
+                0x080024a0                PWR_PVDCmd
+                0x080024c0                PWR_WakeUpPinCmd
+                0x080024e0                PWR_BackupRegulatorCmd
+                0x08002500                PWR_MainRegulatorModeConfig
+                0x08002540                PWR_OverDriveCmd
+                0x08002560                PWR_OverDriveSWCmd
+                0x08002580                PWR_UnderDriveCmd
+                0x080025cc                PWR_MainRegulatorLowVoltageCmd
+                0x08002604                PWR_LowRegulatorLowVoltageCmd
+                0x0800263c                PWR_FlashPowerDownCmd
+                0x0800265c                PWR_EnterSTOPMode
+                0x080026e0                PWR_EnterUnderDriveSTOPMode
+                0x08002764                PWR_EnterSTANDBYMode
+                0x080027a0                PWR_GetFlagStatus
+                0x080027dc                PWR_ClearFlag
+ .text          0x0800280c      0xfe8 obj\Debug\Src\stm32f4xx_rcc.o
+                0x0800280c                RCC_DeInit
+                0x080028c8                RCC_HSEConfig
+                0x080028f8                RCC_WaitForHSEStartUp
+                0x0800295c                RCC_AdjustHSICalibrationValue
+                0x080029a4                RCC_HSICmd
+                0x080029c4                RCC_LSEConfig
+                0x08002a24                RCC_LSICmd
+                0x08002a44                RCC_PLLConfig
+                0x08002a8c                RCC_PLLCmd
+                0x08002aac                RCC_PLLI2SConfig
+                0x08002adc                RCC_PLLI2SCmd
+                0x08002afc                RCC_PLLSAIConfig
+                0x08002b34                RCC_PLLSAICmd
+                0x08002b54                RCC_ClockSecuritySystemCmd
+                0x08002b74                RCC_MCO1Config
+                0x08002bbc                RCC_MCO2Config
+                0x08002c04                RCC_SYSCLKConfig
+                0x08002c44                RCC_GetSYSCLKSource
+                0x08002c64                RCC_HCLKConfig
+                0x08002ca4                RCC_PCLK1Config
+                0x08002ce4                RCC_PCLK2Config
+                0x08002d28                RCC_GetClocksFreq
+                0x08002ef4                RCC_RTCCLKConfig
+                0x08002f68                RCC_RTCCLKCmd
+                0x08002f88                RCC_BackupResetCmd
+                0x08002fa8                RCC_I2SCLKConfig
+                0x08002fc8                RCC_SAIPLLI2SClkDivConfig
+                0x08003010                RCC_SAIPLLSAIClkDivConfig
+                0x0800305c                RCC_SAIBlockACLKConfig
+                0x080030a0                RCC_SAIBlockBCLKConfig
+                0x080030e4                RCC_LTDCCLKDivConfig
+                0x08003128                RCC_TIMCLKPresConfig
+                0x08003148                RCC_AHB1PeriphClockCmd
+                0x0800319c                RCC_AHB2PeriphClockCmd
+                0x080031f0                RCC_AHB3PeriphClockCmd
+                0x08003244                RCC_APB1PeriphClockCmd
+                0x08003298                RCC_APB2PeriphClockCmd
+                0x080032ec                RCC_AHB1PeriphResetCmd
+                0x08003340                RCC_AHB2PeriphResetCmd
+                0x08003394                RCC_AHB3PeriphResetCmd
+                0x080033e8                RCC_APB1PeriphResetCmd
+                0x0800343c                RCC_APB2PeriphResetCmd
+                0x08003490                RCC_AHB1PeriphClockLPModeCmd
+                0x080034e4                RCC_AHB2PeriphClockLPModeCmd
+                0x08003538                RCC_AHB3PeriphClockLPModeCmd
+                0x0800358c                RCC_APB1PeriphClockLPModeCmd
+                0x080035e0                RCC_APB2PeriphClockLPModeCmd
+                0x08003634                RCC_LSEModeConfig
+                0x08003680                RCC_ITConfig
+                0x080036e0                RCC_GetFlagStatus
+                0x08003770                RCC_ClearFlag
+                0x08003794                RCC_GetITStatus
+                0x080037d4                RCC_ClearITPendingBit
+ .text          0x080037f4     0x1c54 obj\Debug\Src\stm32f4xx_rtc.o
+                0x080037f4                RTC_DeInit
+                0x08003998                RTC_Init
+                0x08003a58                RTC_StructInit
+                0x08003a84                RTC_WriteProtectionCmd
+                0x08003acc                RTC_EnterInitMode
+                0x08003b60                RTC_ExitInitMode
+                0x08003b84                RTC_WaitForSynchro
+                0x08003c34                RTC_RefClockCmd
+                0x08003cd0                RTC_BypassShadowCmd
+                0x08003d48                RTC_SetTime
+                0x08003ea8                RTC_TimeStructInit
+                0x08003edc                RTC_GetTime
+                0x08003f84                RTC_GetSubSecond
+                0x08003fb4                RTC_SetDate
+                0x08004110                RTC_DateStructInit
+                0x08004144                RTC_GetDate
+                0x080041ec                RTC_SetAlarm
+                0x08004368                RTC_AlarmStructInit
+                0x080043b4                RTC_GetAlarm
+                0x080044a0                RTC_AlarmCmd
+                0x08004588                RTC_AlarmSubSecondConfig
+                0x080045f8                RTC_GetAlarmSubSecond
+                0x08004648                RTC_WakeUpClockConfig
+                0x080046b4                RTC_SetWakeUpCounter
+                0x080046fc                RTC_GetWakeUpCounter
+                0x0800471c                RTC_WakeUpCmd
+                0x080047f4                RTC_DayLightSavingConfig
+                0x08004868                RTC_GetStoreOperation
+                0x08004884                RTC_OutputConfig
+                0x080048f8                RTC_CoarseCalibConfig
+                0x0800496c                RTC_CoarseCalibCmd
+                0x08004a08                RTC_CalibOutputCmd
+                0x08004a80                RTC_CalibOutputConfig
+                0x08004aec                RTC_SmoothCalibConfig
+                0x08004ba8                RTC_TimeStampCmd
+                0x08004c2c                RTC_GetTimeStamp
+                0x08004d5c                RTC_GetTimeStampSubSecond
+                0x08004d74                RTC_TamperTriggerConfig
+                0x08004dcc                RTC_TamperCmd
+                0x08004e20                RTC_TamperFilterConfig
+                0x08004e64                RTC_TamperSamplingFreqConfig
+                0x08004ea8                RTC_TamperPinsPrechargeDuration
+                0x08004eec                RTC_TimeStampOnTamperDetectionCmd
+                0x08004f38                RTC_TamperPullUpCmd
+                0x08004f84                RTC_WriteBackupRegister
+                0x08004fbc                RTC_ReadBackupRegister
+                0x08004ff0                RTC_TamperPinSelection
+                0x08005034                RTC_TimeStampPinSelection
+                0x08005078                RTC_OutputTypeConfig
+                0x080050bc                RTC_SynchroShiftConfig
+                0x0800519c                RTC_ITConfig
+                0x0800525c                RTC_GetFlagStatus
+                0x080052ac                RTC_ClearFlag
+                0x080052ec                RTC_GetITStatus
+                0x08005378                RTC_ClearITPendingBit
+ .text.__register_exitproc
+                0x08005448       0xac c:/program files (x86)/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-__atexit.o)
+                0x08005448                __register_exitproc
+ .text.__libc_fini_array
+                0x080054f4       0x50 c:/program files (x86)/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-fini.o)
+                0x080054f4                __libc_fini_array
+ .text.startup.register_fini
+                0x08005544       0x14 c:/program files (x86)/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-__call_atexit.o)
+ .text.atexit   0x08005558        0xc c:/program files (x86)/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-atexit.o)
+                0x08005558                atexit
+ *(.init)
+ .init          0x08005564        0x4 c:/program files (x86)/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/armv7e-m/crti.o
+                0x08005564                _init
+ .init          0x08005568        0x8 c:/program files (x86)/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/armv7e-m/crtn.o
+ *(.fini)
+ .fini          0x08005570        0x4 c:/program files (x86)/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/armv7e-m/crti.o
+                0x08005570                _fini
+ .fini          0x08005574        0x8 c:/program files (x86)/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/armv7e-m/crtn.o
+ *crtbegin.o(.ctors)
+ *crtbegin?.o(.ctors)
+ *(EXCLUDE_FILE(*crtend.o *crtend?.o) .ctors)
+ *(SORT(.ctors.*))
+ *(.ctors)
+ *crtbegin.o(.dtors)
+ *crtbegin?.o(.dtors)
+ *(EXCLUDE_FILE(*crtend.o *crtend?.o) .dtors)
+ *(SORT(.dtors.*))
+ *(.dtors)
+ *(.rodata*)
+ .rodata        0x0800557c      0x1e8 obj\Debug\Src\Lib_glcd.o
+                0x0800557c                FontSystem5x8
+ .rodata        0x08005764       0x1c obj\Debug\Src\main.o
+ .rodata.str1.4
+                0x08005780        0x4 c:/program files (x86)/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-impure.o)
+ .rodata._global_impure_ptr
+                0x08005784        0x4 c:/program files (x86)/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-impure.o)
+                0x08005784                _global_impure_ptr
+ *(.eh_frame*)
+ .eh_frame      0x08005788        0x0 c:/program files (x86)/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/armv7e-m/crtbegin.o
+ .eh_frame      0x08005788        0x4 c:/program files (x86)/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/armv7e-m/crtend.o
+
+.glue_7         0x0800578c        0x0
+ .glue_7        0x00000000        0x0 linker stubs
+
+.glue_7t        0x0800578c        0x0
+ .glue_7t       0x00000000        0x0 linker stubs
+
+.vfp11_veneer   0x0800578c        0x0
+ .vfp11_veneer  0x00000000        0x0 linker stubs
+
+.v4_bx          0x0800578c        0x0
+ .v4_bx         0x00000000        0x0 linker stubs
+
+.iplt           0x0800578c        0x0
+ .iplt          0x00000000        0x0 c:/program files (x86)/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/armv7e-m/crtbegin.o
+
+.rel.dyn        0x0800578c        0x0
+ .rel.iplt      0x00000000        0x0 c:/program files (x86)/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/armv7e-m/crtbegin.o
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+                0x0800578c                __exidx_start = .
+
+.ARM.exidx
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+                0x0800578c                __exidx_end = .
+
+.ARM.attributes
+                0x0800578c       0x2a
+ *(.ARM.attributes)
+ .ARM.attributes
+                0x0800578c       0x1e c:/program files (x86)/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/armv7e-m/crti.o
+ .ARM.attributes
+                0x080057aa       0x2e c:/program files (x86)/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/armv7e-m/crtbegin.o
+ .ARM.attributes
+                0x080057d8       0x1b obj\Debug\Setup\startup.o
+ .ARM.attributes
+                0x080057f3       0x33 obj\Debug\Src\Lib_clock.o
+ .ARM.attributes
+                0x08005826       0x33 obj\Debug\Src\Lib_glcd.o
+ .ARM.attributes
+                0x08005859       0x33 obj\Debug\Src\Lib_gpio.o
+ .ARM.attributes
+                0x0800588c       0x33 obj\Debug\Src\main.o
+ .ARM.attributes
+                0x080058bf       0x33 obj\Debug\Src\misc.o
+ .ARM.attributes
+                0x080058f2       0x33 obj\Debug\Src\stm32f4xx_exti.o
+ .ARM.attributes
+                0x08005925       0x33 obj\Debug\Src\stm32f4xx_gpio.o
+ .ARM.attributes
+                0x08005958       0x33 obj\Debug\Src\stm32f4xx_pwr.o
+ .ARM.attributes
+                0x0800598b       0x33 obj\Debug\Src\stm32f4xx_rcc.o
+ .ARM.attributes
+                0x080059be       0x33 obj\Debug\Src\stm32f4xx_rtc.o
+ .ARM.attributes
+                0x080059f1       0x2e c:/program files (x86)/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-__atexit.o)
+ .ARM.attributes
+                0x08005a1f       0x2e c:/program files (x86)/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-fini.o)
+ .ARM.attributes
+                0x08005a4d       0x2e c:/program files (x86)/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-impure.o)
+ .ARM.attributes
+                0x08005a7b       0x2e c:/program files (x86)/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-__call_atexit.o)
+ .ARM.attributes
+                0x08005aa9       0x2e c:/program files (x86)/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-atexit.o)
+ .ARM.attributes
+                0x08005ad7       0x2e c:/program files (x86)/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/armv7e-m/crtend.o
+ .ARM.attributes
+                0x08005b05       0x1e c:/program files (x86)/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/armv7e-m/crtn.o
+                0x08005b23                __etext = .
+
+.data           0x20000000      0x448 load address 0x08005b23
+                0x20000000                __data_start__ = .
+ *(vtable)
+ *(.data*)
+ .data          0x20000000       0x10 obj\Debug\Src\stm32f4xx_rcc.o
+ .data.impure_data
+                0x20000010      0x428 c:/program files (x86)/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-impure.o)
+                0x20000438                . = ALIGN (0x4)
+                0x20000438                PROVIDE (__preinit_array_start, .)
+ *(.preinit_array)
+                0x20000438                PROVIDE (__preinit_array_end, .)
+                0x20000438                . = ALIGN (0x4)
+                0x20000438                PROVIDE (__init_array_start, .)
+ *(SORT(.init_array.*))
+ .init_array.00000
+                0x20000438        0x4 c:/program files (x86)/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-__call_atexit.o)
+ *(.init_array)
+ .init_array    0x2000043c        0x4 c:/program files (x86)/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/armv7e-m/crtbegin.o
+                0x20000440                PROVIDE (__init_array_end, .)
+                0x20000440                . = ALIGN (0x4)
+                0x20000440                PROVIDE (__fini_array_start, .)
+ *(SORT(.fini_array.*))
+ *(.fini_array)
+ .fini_array    0x20000440        0x4 c:/program files (x86)/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/armv7e-m/crtbegin.o
+                0x20000444                PROVIDE (__fini_array_end, .)
+ *(.jcr*)
+ .jcr           0x20000444        0x0 c:/program files (x86)/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/armv7e-m/crtbegin.o
+ .jcr           0x20000444        0x4 c:/program files (x86)/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/armv7e-m/crtend.o
+                0x20000448                . = ALIGN (0x4)
+                0x20000448                __data_end__ = .
+
+.igot.plt       0x20000448        0x0 load address 0x08005f6c
+ .igot.plt      0x00000000        0x0 c:/program files (x86)/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/armv7e-m/crtbegin.o
+
+.bss            0x20000448       0x38 load address 0x08005f6c
+                0x20000448                . = ALIGN (0x4)
+                0x20000448                __bss_start__ = .
+ *(.bss*)
+ .bss           0x20000448       0x1c c:/program files (x86)/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/armv7e-m/crtbegin.o
+ .bss           0x20000464        0x2 obj\Debug\Src\Lib_clock.o
+                0x20000464                LibClock_AlarmA
+                0x20000465                LibClock_AlarmB
+ *fill*         0x20000466        0x2 00
+ .bss           0x20000468       0x18 obj\Debug\Src\Lib_gpio.o
+ *(COMMON)
+                0x20000480                . = ALIGN (0x4)
+                0x20000480                __bss_end__ = .
+
+._user_heap_stack
+                0x20000480     0x1800 load address 0x08005fa4
+                0x20000480                . = ALIGN (0x8)
+                0x20000480                __heap_start__ = .
+                0x20001480                . = (. + _Min_Heap_Size)
+ *fill*         0x20000480     0x1000 00
+                0x20001480                __heap_end__ = .
+                0x20001480                . = ALIGN (0x8)
+                0x20001480                __stack_start__ = .
+                0x20001c80                . = (. + _Min_Stack_Size)
+ *fill*         0x20001480      0x800 00
+                0x20001c80                __stack_end__ = .
+                0x20001c80                _estack = .
+                0x20001c80                . = ALIGN (0x8)
+
+/DISCARD/
+ libc.a(*)
+ libm.a(*)
+ libgcc.a(*)
+OUTPUT(bin\Debug\TP3.elf elf32-littlearm)
+
+.debug_line     0x00000000     0x1573
+ .debug_line    0x00000000       0x8a obj\Debug\Setup\startup.o
+ .debug_line    0x0000008a      0x1ac obj\Debug\Src\Lib_clock.o
+ .debug_line    0x00000236      0x21b obj\Debug\Src\Lib_glcd.o
+ .debug_line    0x00000451      0x21c obj\Debug\Src\Lib_gpio.o
+ .debug_line    0x0000066d      0x237 obj\Debug\Src\main.o
+ .debug_line    0x000008a4      0x11f obj\Debug\Src\misc.o
+ .debug_line    0x000009c3      0x14f obj\Debug\Src\stm32f4xx_exti.o
+ .debug_line    0x00000b12      0x1a9 obj\Debug\Src\stm32f4xx_gpio.o
+ .debug_line    0x00000cbb      0x1ac obj\Debug\Src\stm32f4xx_pwr.o
+ .debug_line    0x00000e67      0x2c3 obj\Debug\Src\stm32f4xx_rcc.o
+ .debug_line    0x0000112a      0x449 obj\Debug\Src\stm32f4xx_rtc.o
+
+.debug_info     0x00000000     0x53f8
+ .debug_info    0x00000000       0x72 obj\Debug\Setup\startup.o
+ .debug_info    0x00000072      0x7da obj\Debug\Src\Lib_clock.o
+ .debug_info    0x0000084c      0x54b obj\Debug\Src\Lib_glcd.o
+ .debug_info    0x00000d97      0xb02 obj\Debug\Src\Lib_gpio.o
+ .debug_info    0x00001899      0x409 obj\Debug\Src\main.o
+ .debug_info    0x00001ca2      0x58e obj\Debug\Src\misc.o
+ .debug_info    0x00002230      0x360 obj\Debug\Src\stm32f4xx_exti.o
+ .debug_info    0x00002590      0x63f obj\Debug\Src\stm32f4xx_gpio.o
+ .debug_info    0x00002bcf      0x685 obj\Debug\Src\stm32f4xx_pwr.o
+ .debug_info    0x00003254      0xf53 obj\Debug\Src\stm32f4xx_rcc.o
+ .debug_info    0x000041a7     0x1251 obj\Debug\Src\stm32f4xx_rtc.o
+
+.debug_abbrev   0x00000000      0xf27
+ .debug_abbrev  0x00000000       0x14 obj\Debug\Setup\startup.o
+ .debug_abbrev  0x00000014      0x155 obj\Debug\Src\Lib_clock.o
+ .debug_abbrev  0x00000169      0x17f obj\Debug\Src\Lib_glcd.o
+ .debug_abbrev  0x000002e8      0x1ea obj\Debug\Src\Lib_gpio.o
+ .debug_abbrev  0x000004d2       0xff obj\Debug\Src\main.o
+ .debug_abbrev  0x000005d1      0x127 obj\Debug\Src\misc.o
+ .debug_abbrev  0x000006f8      0x1a5 obj\Debug\Src\stm32f4xx_exti.o
+ .debug_abbrev  0x0000089d      0x1a3 obj\Debug\Src\stm32f4xx_gpio.o
+ .debug_abbrev  0x00000a40      0x17f obj\Debug\Src\stm32f4xx_pwr.o
+ .debug_abbrev  0x00000bbf      0x1ba obj\Debug\Src\stm32f4xx_rcc.o
+ .debug_abbrev  0x00000d79      0x1ae obj\Debug\Src\stm32f4xx_rtc.o
+
+.debug_aranges  0x00000000      0x160
+ .debug_aranges
+                0x00000000       0x20 obj\Debug\Setup\startup.o
+ .debug_aranges
+                0x00000020       0x20 obj\Debug\Src\Lib_clock.o
+ .debug_aranges
+                0x00000040       0x20 obj\Debug\Src\Lib_glcd.o
+ .debug_aranges
+                0x00000060       0x20 obj\Debug\Src\Lib_gpio.o
+ .debug_aranges
+                0x00000080       0x20 obj\Debug\Src\main.o
+ .debug_aranges
+                0x000000a0       0x20 obj\Debug\Src\misc.o
+ .debug_aranges
+                0x000000c0       0x20 obj\Debug\Src\stm32f4xx_exti.o
+ .debug_aranges
+                0x000000e0       0x20 obj\Debug\Src\stm32f4xx_gpio.o
+ .debug_aranges
+                0x00000100       0x20 obj\Debug\Src\stm32f4xx_pwr.o
+ .debug_aranges
+                0x00000120       0x20 obj\Debug\Src\stm32f4xx_rcc.o
+ .debug_aranges
+                0x00000140       0x20 obj\Debug\Src\stm32f4xx_rtc.o
+
+.debug_loc      0x00000000     0x2b32
+ .debug_loc     0x00000000      0x294 obj\Debug\Src\Lib_clock.o
+ .debug_loc     0x00000294      0x294 obj\Debug\Src\Lib_glcd.o
+ .debug_loc     0x00000528      0x460 obj\Debug\Src\Lib_gpio.o
+ .debug_loc     0x00000988       0x3a obj\Debug\Src\main.o
+ .debug_loc     0x000009c2      0x118 obj\Debug\Src\misc.o
+ .debug_loc     0x00000ada      0x1b4 obj\Debug\Src\stm32f4xx_exti.o
+ .debug_loc     0x00000c8e      0x310 obj\Debug\Src\stm32f4xx_gpio.o
+ .debug_loc     0x00000f9e      0x3d8 obj\Debug\Src\stm32f4xx_pwr.o
+ .debug_loc     0x00001376      0xb74 obj\Debug\Src\stm32f4xx_rcc.o
+ .debug_loc     0x00001eea      0xc48 obj\Debug\Src\stm32f4xx_rtc.o
+
+.debug_str      0x00000000     0x2573
+ .debug_str     0x00000000      0x9c3 obj\Debug\Src\Lib_clock.o
+                                0xa0f (size before relaxing)
+ .debug_str     0x000009c3      0x244 obj\Debug\Src\Lib_glcd.o
+                                0x3e1 (size before relaxing)
+ .debug_str     0x00000c07      0x41f obj\Debug\Src\Lib_gpio.o
+                                0x6c4 (size before relaxing)
+ .debug_str     0x00001026       0x4b obj\Debug\Src\main.o
+                                0x319 (size before relaxing)
+ .debug_str     0x00001071      0x1a6 obj\Debug\Src\misc.o
+                                0x364 (size before relaxing)
+ .debug_str     0x00001217       0xf2 obj\Debug\Src\stm32f4xx_exti.o
+                                0x2ec (size before relaxing)
+ .debug_str     0x00001309      0x168 obj\Debug\Src\stm32f4xx_gpio.o
+                                0x42b (size before relaxing)
+ .debug_str     0x00001471      0x205 obj\Debug\Src\stm32f4xx_pwr.o
+                                0x3a2 (size before relaxing)
+ .debug_str     0x00001676      0x6b0 obj\Debug\Src\stm32f4xx_rcc.o
+                                0x937 (size before relaxing)
+ .debug_str     0x00001d26      0x84d obj\Debug\Src\stm32f4xx_rtc.o
+                                0xade (size before relaxing)
+
+.comment        0x00000000       0x70
+ .comment       0x00000000       0x70 obj\Debug\Src\Lib_clock.o
+                                 0x71 (size before relaxing)
+ .comment       0x00000000       0x71 obj\Debug\Src\Lib_glcd.o
+ .comment       0x00000000       0x71 obj\Debug\Src\Lib_gpio.o
+ .comment       0x00000000       0x71 obj\Debug\Src\main.o
+ .comment       0x00000000       0x71 obj\Debug\Src\misc.o
+ .comment       0x00000000       0x71 obj\Debug\Src\stm32f4xx_exti.o
+ .comment       0x00000000       0x71 obj\Debug\Src\stm32f4xx_gpio.o
+ .comment       0x00000000       0x71 obj\Debug\Src\stm32f4xx_pwr.o
+ .comment       0x00000000       0x71 obj\Debug\Src\stm32f4xx_rcc.o
+ .comment       0x00000000       0x71 obj\Debug\Src\stm32f4xx_rtc.o
+
+.debug_frame    0x00000000     0x17e0
+ .debug_frame   0x00000000      0x180 obj\Debug\Src\Lib_clock.o
+ .debug_frame   0x00000180      0x188 obj\Debug\Src\Lib_glcd.o
+ .debug_frame   0x00000308      0x274 obj\Debug\Src\Lib_gpio.o
+ .debug_frame   0x0000057c       0x30 obj\Debug\Src\main.o
+ .debug_frame   0x000005ac       0x9c obj\Debug\Src\misc.o
+ .debug_frame   0x00000648       0xec obj\Debug\Src\stm32f4xx_exti.o
+ .debug_frame   0x00000734      0x19c obj\Debug\Src\stm32f4xx_gpio.o
+ .debug_frame   0x000008d0      0x204 obj\Debug\Src\stm32f4xx_pwr.o
+ .debug_frame   0x00000ad4      0x5d4 obj\Debug\Src\stm32f4xx_rcc.o
+ .debug_frame   0x000010a8      0x670 obj\Debug\Src\stm32f4xx_rtc.o
+ .debug_frame   0x00001718       0x34 c:/program files (x86)/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-__atexit.o)
+ .debug_frame   0x0000174c       0x2c c:/program files (x86)/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-fini.o)
+ .debug_frame   0x00001778       0x48 c:/program files (x86)/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-__call_atexit.o)
+ .debug_frame   0x000017c0       0x20 c:/program files (x86)/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-atexit.o)
+
+Cross Reference Table
+
+Symbol                                            File
+ADC_Handler                                       obj\Debug\Setup\startup.o
+BcdToDec                                          obj\Debug\Src\Lib_clock.o
+                                                  obj\Debug\Src\main.o
+BusFault_Handler                                  obj\Debug\Setup\startup.o
+CAN1_RX0_Handler                                  obj\Debug\Setup\startup.o
+CAN1_RX1_Handler                                  obj\Debug\Setup\startup.o
+CAN1_SCE_Handler                                  obj\Debug\Setup\startup.o
+CAN1_TX_Handler                                   obj\Debug\Setup\startup.o
+CAN2_RX0_Handler                                  obj\Debug\Setup\startup.o
+CAN2_RX1_Handler                                  obj\Debug\Setup\startup.o
+CAN2_SCE_Handler                                  obj\Debug\Setup\startup.o
+CAN2_TX_Handler                                   obj\Debug\Setup\startup.o
+CRYP_Handler                                      obj\Debug\Setup\startup.o
+DCMI_Handler                                      obj\Debug\Setup\startup.o
+DEF_IRQHandler                                    obj\Debug\Setup\startup.o
+DMA1_S0_Handler                                   obj\Debug\Setup\startup.o
+DMA1_S1_Handler                                   obj\Debug\Setup\startup.o
+DMA1_S2_Handler                                   obj\Debug\Setup\startup.o
+DMA1_S3_Handler                                   obj\Debug\Setup\startup.o
+DMA1_S4_Handler                                   obj\Debug\Setup\startup.o
+DMA1_S5_Handler                                   obj\Debug\Setup\startup.o
+DMA1_S6_Handler                                   obj\Debug\Setup\startup.o
+DMA1_S7_Handler                                   obj\Debug\Setup\startup.o
+DMA2_S0_Handler                                   obj\Debug\Setup\startup.o
+DMA2_S1_Handler                                   obj\Debug\Setup\startup.o
+DMA2_S2_Handler                                   obj\Debug\Setup\startup.o
+DMA2_S3_Handler                                   obj\Debug\Setup\startup.o
+DMA2_S4_Handler                                   obj\Debug\Setup\startup.o
+DMA2_S5                                           obj\Debug\Setup\startup.o
+DMA2_S6                                           obj\Debug\Setup\startup.o
+DMA2_S7                                           obj\Debug\Setup\startup.o
+DebugMon_Handler                                  obj\Debug\Setup\startup.o
+DecToBcd                                          obj\Debug\Src\Lib_clock.o
+                                                  obj\Debug\Src\main.o
+Default_Handler                                   obj\Debug\Setup\startup.o
+ETH_Handler                                       obj\Debug\Setup\startup.o
+ETH_WKUP_Handler                                  obj\Debug\Setup\startup.o
+EXTI0_Handler                                     obj\Debug\Setup\startup.o
+EXTI15_10_Handler                                 obj\Debug\Setup\startup.o
+EXTI1_Handler                                     obj\Debug\Setup\startup.o
+EXTI2_Handler                                     obj\Debug\Setup\startup.o
+EXTI3_Handler                                     obj\Debug\Setup\startup.o
+EXTI4_Handler                                     obj\Debug\Setup\startup.o
+EXTI9_5_Handler                                   obj\Debug\Setup\startup.o
+EXTI_ClearFlag                                    obj\Debug\Src\stm32f4xx_exti.o
+EXTI_ClearITPendingBit                            obj\Debug\Src\stm32f4xx_exti.o
+                                                  obj\Debug\Src\Lib_clock.o
+EXTI_DeInit                                       obj\Debug\Src\stm32f4xx_exti.o
+EXTI_GenerateSWInterrupt                          obj\Debug\Src\stm32f4xx_exti.o
+EXTI_GetFlagStatus                                obj\Debug\Src\stm32f4xx_exti.o
+EXTI_GetITStatus                                  obj\Debug\Src\stm32f4xx_exti.o
+EXTI_Init                                         obj\Debug\Src\stm32f4xx_exti.o
+                                                  obj\Debug\Src\Lib_clock.o
+EXTI_StructInit                                   obj\Debug\Src\stm32f4xx_exti.o
+FLASH_Handler                                     obj\Debug\Setup\startup.o
+FPU_Handler                                       obj\Debug\Setup\startup.o
+FSMC_Handler                                      obj\Debug\Setup\startup.o
+FontSystem5x8                                     obj\Debug\Src\Lib_glcd.o
+GLCD_ClearScreen                                  obj\Debug\Src\Lib_glcd.o
+                                                  obj\Debug\Src\main.o
+GLCD_Command                                      obj\Debug\Src\Lib_glcd.o
+GLCD_DataWrite                                    obj\Debug\Src\Lib_glcd.o
+GLCD_Delay                                        obj\Debug\Src\Lib_glcd.o
+GLCD_InitDisplay                                  obj\Debug\Src\Lib_glcd.o
+                                                  obj\Debug\Src\main.o
+GLCD_InitPorts                                    obj\Debug\Src\Lib_glcd.o
+GLCD_Move                                         obj\Debug\Src\Lib_glcd.o
+                                                  obj\Debug\Src\main.o
+GLCD_SelectSide                                   obj\Debug\Src\Lib_glcd.o
+GLCD_ShowInt                                      obj\Debug\Src\Lib_glcd.o
+                                                  obj\Debug\Src\main.o
+GLCD_WaitBusy                                     obj\Debug\Src\Lib_glcd.o
+GLCD_Write                                        obj\Debug\Src\Lib_glcd.o
+                                                  obj\Debug\Src\main.o
+GLCD_WriteChar                                    obj\Debug\Src\Lib_glcd.o
+GPIO_DeInit                                       obj\Debug\Src\stm32f4xx_gpio.o
+GPIO_Init                                         obj\Debug\Src\stm32f4xx_gpio.o
+                                                  obj\Debug\Src\Lib_gpio.o
+                                                  obj\Debug\Src\Lib_glcd.o
+GPIO_PinAFConfig                                  obj\Debug\Src\stm32f4xx_gpio.o
+GPIO_PinLockConfig                                obj\Debug\Src\stm32f4xx_gpio.o
+GPIO_ReadInputData                                obj\Debug\Src\stm32f4xx_gpio.o
+                                                  obj\Debug\Src\main.o
+                                                  obj\Debug\Src\Lib_glcd.o
+GPIO_ReadInputDataBit                             obj\Debug\Src\stm32f4xx_gpio.o
+GPIO_ReadOutputData                               obj\Debug\Src\stm32f4xx_gpio.o
+                                                  obj\Debug\Src\Lib_gpio.o
+                                                  obj\Debug\Src\Lib_glcd.o
+GPIO_ReadOutputDataBit                            obj\Debug\Src\stm32f4xx_gpio.o
+GPIO_ResetBits                                    obj\Debug\Src\stm32f4xx_gpio.o
+                                                  obj\Debug\Src\Lib_glcd.o
+GPIO_SetBits                                      obj\Debug\Src\stm32f4xx_gpio.o
+                                                  obj\Debug\Src\Lib_glcd.o
+GPIO_StructInit                                   obj\Debug\Src\stm32f4xx_gpio.o
+GPIO_ToggleBits                                   obj\Debug\Src\stm32f4xx_gpio.o
+GPIO_Write                                        obj\Debug\Src\stm32f4xx_gpio.o
+                                                  obj\Debug\Src\main.o
+                                                  obj\Debug\Src\Lib_gpio.o
+                                                  obj\Debug\Src\Lib_glcd.o
+GPIO_WriteBit                                     obj\Debug\Src\stm32f4xx_gpio.o
+GPIO_WriteHigh                                    obj\Debug\Src\Lib_gpio.o
+GPIO_Writelow                                     obj\Debug\Src\Lib_gpio.o
+HASH_RNG_Handler                                  obj\Debug\Setup\startup.o
+HardFault_Handler                                 obj\Debug\Setup\startup.o
+I2C1_ER_Handler                                   obj\Debug\Setup\startup.o
+I2C1_EV_Handler                                   obj\Debug\Setup\startup.o
+I2C2_ER_Handler                                   obj\Debug\Setup\startup.o
+I2C2_EV_Handler                                   obj\Debug\Setup\startup.o
+I2C3_ER_Handler                                   obj\Debug\Setup\startup.o
+I2C3_EV_Handler                                   obj\Debug\Setup\startup.o
+LibClock_AlarmA                                   obj\Debug\Src\Lib_clock.o
+LibClock_AlarmB                                   obj\Debug\Src\Lib_clock.o
+LibClock_CmdAlarm                                 obj\Debug\Src\Lib_clock.o
+LibClock_GetAlarm                                 obj\Debug\Src\Lib_clock.o
+LibClock_GetDate                                  obj\Debug\Src\Lib_clock.o
+LibClock_GetTime                                  obj\Debug\Src\Lib_clock.o
+                                                  obj\Debug\Src\main.o
+LibClock_Init                                     obj\Debug\Src\Lib_clock.o
+                                                  obj\Debug\Src\main.o
+LibClock_OnAlarm                                  obj\Debug\Src\Lib_clock.o
+                                                  obj\Debug\Src\main.o
+LibClock_SetAlarm                                 obj\Debug\Src\Lib_clock.o
+                                                  obj\Debug\Src\main.o
+LibClock_SetDate                                  obj\Debug\Src\Lib_clock.o
+LibClock_SetTime                                  obj\Debug\Src\Lib_clock.o
+LibGPIO_Conf                                      obj\Debug\Src\Lib_gpio.o
+                                                  obj\Debug\Src\main.o
+LibGPIO_DeInit                                    obj\Debug\Src\Lib_gpio.o
+LibGPIO_GetFreePins                               obj\Debug\Src\Lib_gpio.o
+LibGPIO_GetPinSource                              obj\Debug\Src\Lib_gpio.o
+LibGPIO_GetPortSource                             obj\Debug\Src\Lib_gpio.o
+LibGPIO_GetUsedPins                               obj\Debug\Src\Lib_gpio.o
+LibGPIO_INT_DisableClock                          obj\Debug\Src\Lib_gpio.o
+LibGPIO_INT_EnableClock                           obj\Debug\Src\Lib_gpio.o
+LibGPIO_INT_Init                                  obj\Debug\Src\Lib_gpio.o
+LibGPIO_Init                                      obj\Debug\Src\Lib_gpio.o
+LibGPIO_InitAlternate                             obj\Debug\Src\Lib_gpio.o
+LibGPIO_Lock                                      obj\Debug\Src\Lib_gpio.o
+LibGPIO_SetPinAsAlternate                         obj\Debug\Src\Lib_gpio.o
+LibGPIO_SetPinAsAnalog                            obj\Debug\Src\Lib_gpio.o
+LibGPIO_SetPinAsInput                             obj\Debug\Src\Lib_gpio.o
+LibGPIO_SetPinAsOutput                            obj\Debug\Src\Lib_gpio.o
+LibGPIO_SetPullResistor                           obj\Debug\Src\Lib_gpio.o
+Lib_delay                                         obj\Debug\Src\Lib_gpio.o
+                                                  obj\Debug\Src\main.o
+MemManage_Handler                                 obj\Debug\Setup\startup.o
+NMI_Handler                                       obj\Debug\Setup\startup.o
+NVIC_Init                                         obj\Debug\Src\misc.o
+                                                  obj\Debug\Src\Lib_clock.o
+NVIC_PriorityGroupConfig                          obj\Debug\Src\misc.o
+NVIC_SetVectorTable                               obj\Debug\Src\misc.o
+NVIC_SystemLPConfig                               obj\Debug\Src\misc.o
+OTG_FS_Handler                                    obj\Debug\Setup\startup.o
+OTG_FS_WKUP_Handler                               obj\Debug\Setup\startup.o
+OTG_HS_EP1_IN_Handler                             obj\Debug\Setup\startup.o
+OTG_HS_EP1_OUT_Handler                            obj\Debug\Setup\startup.o
+OTG_HS_Handler                                    obj\Debug\Setup\startup.o
+OTG_HS_WKUP_Handler                               obj\Debug\Setup\startup.o
+PVD_Handler                                       obj\Debug\Setup\startup.o
+PWR_BackupAccessCmd                               obj\Debug\Src\stm32f4xx_pwr.o
+                                                  obj\Debug\Src\Lib_clock.o
+PWR_BackupRegulatorCmd                            obj\Debug\Src\stm32f4xx_pwr.o
+PWR_ClearFlag                                     obj\Debug\Src\stm32f4xx_pwr.o
+PWR_DeInit                                        obj\Debug\Src\stm32f4xx_pwr.o
+PWR_EnterSTANDBYMode                              obj\Debug\Src\stm32f4xx_pwr.o
+PWR_EnterSTOPMode                                 obj\Debug\Src\stm32f4xx_pwr.o
+PWR_EnterUnderDriveSTOPMode                       obj\Debug\Src\stm32f4xx_pwr.o
+PWR_FlashPowerDownCmd                             obj\Debug\Src\stm32f4xx_pwr.o
+PWR_GetFlagStatus                                 obj\Debug\Src\stm32f4xx_pwr.o
+PWR_LowRegulatorLowVoltageCmd                     obj\Debug\Src\stm32f4xx_pwr.o
+PWR_MainRegulatorLowVoltageCmd                    obj\Debug\Src\stm32f4xx_pwr.o
+PWR_MainRegulatorModeConfig                       obj\Debug\Src\stm32f4xx_pwr.o
+PWR_OverDriveCmd                                  obj\Debug\Src\stm32f4xx_pwr.o
+PWR_OverDriveSWCmd                                obj\Debug\Src\stm32f4xx_pwr.o
+PWR_PVDCmd                                        obj\Debug\Src\stm32f4xx_pwr.o
+PWR_PVDLevelConfig                                obj\Debug\Src\stm32f4xx_pwr.o
+PWR_UnderDriveCmd                                 obj\Debug\Src\stm32f4xx_pwr.o
+PWR_WakeUpPinCmd                                  obj\Debug\Src\stm32f4xx_pwr.o
+PendSV_Handler                                    obj\Debug\Setup\startup.o
+RCC_AHB1PeriphClockCmd                            obj\Debug\Src\stm32f4xx_rcc.o
+                                                  obj\Debug\Src\Lib_gpio.o
+                                                  obj\Debug\Src\Lib_glcd.o
+RCC_AHB1PeriphClockLPModeCmd                      obj\Debug\Src\stm32f4xx_rcc.o
+RCC_AHB1PeriphResetCmd                            obj\Debug\Src\stm32f4xx_rcc.o
+                                                  obj\Debug\Src\stm32f4xx_gpio.o
+RCC_AHB2PeriphClockCmd                            obj\Debug\Src\stm32f4xx_rcc.o
+RCC_AHB2PeriphClockLPModeCmd                      obj\Debug\Src\stm32f4xx_rcc.o
+RCC_AHB2PeriphResetCmd                            obj\Debug\Src\stm32f4xx_rcc.o
+RCC_AHB3PeriphClockCmd                            obj\Debug\Src\stm32f4xx_rcc.o
+RCC_AHB3PeriphClockLPModeCmd                      obj\Debug\Src\stm32f4xx_rcc.o
+RCC_AHB3PeriphResetCmd                            obj\Debug\Src\stm32f4xx_rcc.o
+RCC_APB1PeriphClockCmd                            obj\Debug\Src\stm32f4xx_rcc.o
+                                                  obj\Debug\Src\Lib_clock.o
+RCC_APB1PeriphClockLPModeCmd                      obj\Debug\Src\stm32f4xx_rcc.o
+RCC_APB1PeriphResetCmd                            obj\Debug\Src\stm32f4xx_rcc.o
+                                                  obj\Debug\Src\stm32f4xx_pwr.o
+RCC_APB2PeriphClockCmd                            obj\Debug\Src\stm32f4xx_rcc.o
+RCC_APB2PeriphClockLPModeCmd                      obj\Debug\Src\stm32f4xx_rcc.o
+RCC_APB2PeriphResetCmd                            obj\Debug\Src\stm32f4xx_rcc.o
+RCC_AdjustHSICalibrationValue                     obj\Debug\Src\stm32f4xx_rcc.o
+RCC_BackupResetCmd                                obj\Debug\Src\stm32f4xx_rcc.o
+RCC_ClearFlag                                     obj\Debug\Src\stm32f4xx_rcc.o
+RCC_ClearITPendingBit                             obj\Debug\Src\stm32f4xx_rcc.o
+RCC_ClockSecuritySystemCmd                        obj\Debug\Src\stm32f4xx_rcc.o
+RCC_DeInit                                        obj\Debug\Src\stm32f4xx_rcc.o
+RCC_GetClocksFreq                                 obj\Debug\Src\stm32f4xx_rcc.o
+RCC_GetFlagStatus                                 obj\Debug\Src\stm32f4xx_rcc.o
+                                                  obj\Debug\Src\Lib_clock.o
+RCC_GetITStatus                                   obj\Debug\Src\stm32f4xx_rcc.o
+RCC_GetSYSCLKSource                               obj\Debug\Src\stm32f4xx_rcc.o
+RCC_HCLKConfig                                    obj\Debug\Src\stm32f4xx_rcc.o
+RCC_HSEConfig                                     obj\Debug\Src\stm32f4xx_rcc.o
+RCC_HSICmd                                        obj\Debug\Src\stm32f4xx_rcc.o
+RCC_Handler                                       obj\Debug\Setup\startup.o
+RCC_I2SCLKConfig                                  obj\Debug\Src\stm32f4xx_rcc.o
+RCC_ITConfig                                      obj\Debug\Src\stm32f4xx_rcc.o
+RCC_LSEConfig                                     obj\Debug\Src\stm32f4xx_rcc.o
+                                                  obj\Debug\Src\Lib_clock.o
+RCC_LSEModeConfig                                 obj\Debug\Src\stm32f4xx_rcc.o
+RCC_LSICmd                                        obj\Debug\Src\stm32f4xx_rcc.o
+                                                  obj\Debug\Src\Lib_clock.o
+RCC_LTDCCLKDivConfig                              obj\Debug\Src\stm32f4xx_rcc.o
+RCC_MCO1Config                                    obj\Debug\Src\stm32f4xx_rcc.o
+RCC_MCO2Config                                    obj\Debug\Src\stm32f4xx_rcc.o
+RCC_PCLK1Config                                   obj\Debug\Src\stm32f4xx_rcc.o
+RCC_PCLK2Config                                   obj\Debug\Src\stm32f4xx_rcc.o
+RCC_PLLCmd                                        obj\Debug\Src\stm32f4xx_rcc.o
+RCC_PLLConfig                                     obj\Debug\Src\stm32f4xx_rcc.o
+RCC_PLLI2SCmd                                     obj\Debug\Src\stm32f4xx_rcc.o
+RCC_PLLI2SConfig                                  obj\Debug\Src\stm32f4xx_rcc.o
+RCC_PLLSAICmd                                     obj\Debug\Src\stm32f4xx_rcc.o
+RCC_PLLSAIConfig                                  obj\Debug\Src\stm32f4xx_rcc.o
+RCC_RTCCLKCmd                                     obj\Debug\Src\stm32f4xx_rcc.o
+                                                  obj\Debug\Src\Lib_clock.o
+RCC_RTCCLKConfig                                  obj\Debug\Src\stm32f4xx_rcc.o
+                                                  obj\Debug\Src\Lib_clock.o
+RCC_SAIBlockACLKConfig                            obj\Debug\Src\stm32f4xx_rcc.o
+RCC_SAIBlockBCLKConfig                            obj\Debug\Src\stm32f4xx_rcc.o
+RCC_SAIPLLI2SClkDivConfig                         obj\Debug\Src\stm32f4xx_rcc.o
+RCC_SAIPLLSAIClkDivConfig                         obj\Debug\Src\stm32f4xx_rcc.o
+RCC_SYSCLKConfig                                  obj\Debug\Src\stm32f4xx_rcc.o
+RCC_TIMCLKPresConfig                              obj\Debug\Src\stm32f4xx_rcc.o
+RCC_WaitForHSEStartUp                             obj\Debug\Src\stm32f4xx_rcc.o
+RTC_ALARM_Handler                                 obj\Debug\Src\Lib_clock.o
+                                                  obj\Debug\Setup\startup.o
+RTC_AlarmCmd                                      obj\Debug\Src\stm32f4xx_rtc.o
+                                                  obj\Debug\Src\Lib_clock.o
+RTC_AlarmStructInit                               obj\Debug\Src\stm32f4xx_rtc.o
+RTC_AlarmSubSecondConfig                          obj\Debug\Src\stm32f4xx_rtc.o
+RTC_BypassShadowCmd                               obj\Debug\Src\stm32f4xx_rtc.o
+RTC_CalibOutputCmd                                obj\Debug\Src\stm32f4xx_rtc.o
+RTC_CalibOutputConfig                             obj\Debug\Src\stm32f4xx_rtc.o
+RTC_ClearFlag                                     obj\Debug\Src\stm32f4xx_rtc.o
+                                                  obj\Debug\Src\Lib_clock.o
+RTC_ClearITPendingBit                             obj\Debug\Src\stm32f4xx_rtc.o
+                                                  obj\Debug\Src\Lib_clock.o
+RTC_CoarseCalibCmd                                obj\Debug\Src\stm32f4xx_rtc.o
+RTC_CoarseCalibConfig                             obj\Debug\Src\stm32f4xx_rtc.o
+RTC_DateStructInit                                obj\Debug\Src\stm32f4xx_rtc.o
+RTC_DayLightSavingConfig                          obj\Debug\Src\stm32f4xx_rtc.o
+RTC_DeInit                                        obj\Debug\Src\stm32f4xx_rtc.o
+RTC_EnterInitMode                                 obj\Debug\Src\stm32f4xx_rtc.o
+RTC_ExitInitMode                                  obj\Debug\Src\stm32f4xx_rtc.o
+RTC_GetAlarm                                      obj\Debug\Src\stm32f4xx_rtc.o
+                                                  obj\Debug\Src\Lib_clock.o
+RTC_GetAlarmSubSecond                             obj\Debug\Src\stm32f4xx_rtc.o
+RTC_GetDate                                       obj\Debug\Src\stm32f4xx_rtc.o
+                                                  obj\Debug\Src\Lib_clock.o
+RTC_GetFlagStatus                                 obj\Debug\Src\stm32f4xx_rtc.o
+RTC_GetITStatus                                   obj\Debug\Src\stm32f4xx_rtc.o
+                                                  obj\Debug\Src\Lib_clock.o
+RTC_GetStoreOperation                             obj\Debug\Src\stm32f4xx_rtc.o
+RTC_GetSubSecond                                  obj\Debug\Src\stm32f4xx_rtc.o
+RTC_GetTime                                       obj\Debug\Src\stm32f4xx_rtc.o
+                                                  obj\Debug\Src\Lib_clock.o
+RTC_GetTimeStamp                                  obj\Debug\Src\stm32f4xx_rtc.o
+RTC_GetTimeStampSubSecond                         obj\Debug\Src\stm32f4xx_rtc.o
+RTC_GetWakeUpCounter                              obj\Debug\Src\stm32f4xx_rtc.o
+RTC_ITConfig                                      obj\Debug\Src\stm32f4xx_rtc.o
+                                                  obj\Debug\Src\Lib_clock.o
+RTC_Init                                          obj\Debug\Src\stm32f4xx_rtc.o
+                                                  obj\Debug\Src\Lib_clock.o
+RTC_OutputConfig                                  obj\Debug\Src\stm32f4xx_rtc.o
+RTC_OutputTypeConfig                              obj\Debug\Src\stm32f4xx_rtc.o
+RTC_ReadBackupRegister                            obj\Debug\Src\stm32f4xx_rtc.o
+                                                  obj\Debug\Src\Lib_clock.o
+RTC_RefClockCmd                                   obj\Debug\Src\stm32f4xx_rtc.o
+RTC_SetAlarm                                      obj\Debug\Src\stm32f4xx_rtc.o
+                                                  obj\Debug\Src\Lib_clock.o
+RTC_SetDate                                       obj\Debug\Src\stm32f4xx_rtc.o
+                                                  obj\Debug\Src\Lib_clock.o
+RTC_SetTime                                       obj\Debug\Src\stm32f4xx_rtc.o
+                                                  obj\Debug\Src\Lib_clock.o
+RTC_SetWakeUpCounter                              obj\Debug\Src\stm32f4xx_rtc.o
+RTC_SmoothCalibConfig                             obj\Debug\Src\stm32f4xx_rtc.o
+RTC_StructInit                                    obj\Debug\Src\stm32f4xx_rtc.o
+RTC_SynchroShiftConfig                            obj\Debug\Src\stm32f4xx_rtc.o
+RTC_TamperCmd                                     obj\Debug\Src\stm32f4xx_rtc.o
+RTC_TamperFilterConfig                            obj\Debug\Src\stm32f4xx_rtc.o
+RTC_TamperPinSelection                            obj\Debug\Src\stm32f4xx_rtc.o
+RTC_TamperPinsPrechargeDuration                   obj\Debug\Src\stm32f4xx_rtc.o
+RTC_TamperPullUpCmd                               obj\Debug\Src\stm32f4xx_rtc.o
+RTC_TamperSamplingFreqConfig                      obj\Debug\Src\stm32f4xx_rtc.o
+RTC_TamperTriggerConfig                           obj\Debug\Src\stm32f4xx_rtc.o
+RTC_TimeStampCmd                                  obj\Debug\Src\stm32f4xx_rtc.o
+RTC_TimeStampOnTamperDetectionCmd                 obj\Debug\Src\stm32f4xx_rtc.o
+RTC_TimeStampPinSelection                         obj\Debug\Src\stm32f4xx_rtc.o
+RTC_TimeStructInit                                obj\Debug\Src\stm32f4xx_rtc.o
+RTC_WKUP_Handler                                  obj\Debug\Setup\startup.o
+RTC_WaitForSynchro                                obj\Debug\Src\stm32f4xx_rtc.o
+                                                  obj\Debug\Src\Lib_clock.o
+RTC_WakeUpClockConfig                             obj\Debug\Src\stm32f4xx_rtc.o
+RTC_WakeUpCmd                                     obj\Debug\Src\stm32f4xx_rtc.o
+RTC_WriteBackupRegister                           obj\Debug\Src\stm32f4xx_rtc.o
+                                                  obj\Debug\Src\Lib_clock.o
+RTC_WriteProtectionCmd                            obj\Debug\Src\stm32f4xx_rtc.o
+Reset_Handler                                     obj\Debug\Setup\startup.o
+SDIO_Handler                                      obj\Debug\Setup\startup.o
+SPI1_Handler                                      obj\Debug\Setup\startup.o
+SPI2_Handler                                      obj\Debug\Setup\startup.o
+SPI3_Handler                                      obj\Debug\Setup\startup.o
+SVC_Handler                                       obj\Debug\Setup\startup.o
+SysTick_CLKSourceConfig                           obj\Debug\Src\misc.o
+SysTick_Handler                                   obj\Debug\Setup\startup.o
+SystemCoreClock                                   obj\Debug\Src\system_stm32f4xx.o
+SystemCoreClockUpdate                             obj\Debug\Src\system_stm32f4xx.o
+SystemInit                                        obj\Debug\Src\system_stm32f4xx.o
+TAMP_STAMP_Handler                                obj\Debug\Setup\startup.o
+TIM1_BRK_TIM9_Handler                             obj\Debug\Setup\startup.o
+TIM1_CC_Handler                                   obj\Debug\Setup\startup.o
+TIM1_TRG_COM_TIM11_Handler                        obj\Debug\Setup\startup.o
+TIM1_UP_TIM10_Handler                             obj\Debug\Setup\startup.o
+TIM2_Handler                                      obj\Debug\Setup\startup.o
+TIM3_Handler                                      obj\Debug\Setup\startup.o
+TIM4_Handler                                      obj\Debug\Setup\startup.o
+TIM5_Handler                                      obj\Debug\Setup\startup.o
+TIM6_DAC_Handler                                  obj\Debug\Setup\startup.o
+TIM7_Handler                                      obj\Debug\Setup\startup.o
+TIM8_BRK_TIM12_Handler                            obj\Debug\Setup\startup.o
+TIM8_CC_Handler                                   obj\Debug\Setup\startup.o
+TIM8_TRG_COM_TIM14_Handler                        obj\Debug\Setup\startup.o
+TIM8_UP_TIM13_Handler                             obj\Debug\Setup\startup.o
+UART4_Handler                                     obj\Debug\Setup\startup.o
+UART5_Handler                                     obj\Debug\Setup\startup.o
+USART1_Handler                                    obj\Debug\Setup\startup.o
+USART2_Handler                                    obj\Debug\Setup\startup.o
+USART3_Handler                                    obj\Debug\Setup\startup.o
+USART6_Handler                                    obj\Debug\Setup\startup.o
+UsageFault_Handler                                obj\Debug\Setup\startup.o
+WWDG_Handler                                      obj\Debug\Setup\startup.o
+_Jv_RegisterClasses                               c:/program files (x86)/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/armv7e-m/crtbegin.o
+__bss_end__                                       obj\Debug\Setup\startup.o
+                                                  c:/program files (x86)/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m/crt0.o
+__bss_start__                                     obj\Debug\Setup\startup.o
+                                                  c:/program files (x86)/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m/crt0.o
+__call_exitprocs                                  c:/program files (x86)/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-__call_atexit.o)
+                                                  c:/program files (x86)/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-exit.o)
+__data_end__                                      obj\Debug\Setup\startup.o
+__data_start__                                    obj\Debug\Setup\startup.o
+__deregister_frame_info                           c:/program files (x86)/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/armv7e-m/crtbegin.o
+__dso_handle                                      c:/program files (x86)/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/armv7e-m/crtbegin.o
+__etext                                           obj\Debug\Setup\startup.o
+__fini_array_end                                  c:/program files (x86)/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-fini.o)
+__fini_array_start                                c:/program files (x86)/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-fini.o)
+__init_array_end                                  c:/program files (x86)/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-init.o)
+__init_array_start                                c:/program files (x86)/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-init.o)
+__isr_vector                                      obj\Debug\Setup\startup.o
+__libc_fini                                       c:/program files (x86)/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-__call_atexit.o)
+__libc_fini_array                                 c:/program files (x86)/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-fini.o)
+                                                  c:/program files (x86)/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-__call_atexit.o)
+                                                  c:/program files (x86)/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m/crt0.o
+__libc_init_array                                 c:/program files (x86)/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-init.o)
+                                                  c:/program files (x86)/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m/crt0.o
+__preinit_array_end                               c:/program files (x86)/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-init.o)
+__preinit_array_start                             c:/program files (x86)/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-init.o)
+__register_exitproc                               c:/program files (x86)/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-__atexit.o)
+                                                  c:/program files (x86)/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-atexit.o)
+                                                  c:/program files (x86)/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m/crt0.o
+__register_frame_info                             c:/program files (x86)/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/armv7e-m/crtbegin.o
+__stack                                           c:/program files (x86)/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m/crt0.o
+__stack_end__                                     obj\Debug\Setup\startup.o
+_exit                                             c:/program files (x86)/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-exit.o)
+_fini                                             c:/program files (x86)/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/armv7e-m/crti.o
+                                                  c:/program files (x86)/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-fini.o)
+_global_impure_ptr                                c:/program files (x86)/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-impure.o)
+                                                  c:/program files (x86)/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-__call_atexit.o)
+                                                  c:/program files (x86)/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-exit.o)
+                                                  c:/program files (x86)/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-__atexit.o)
+_impure_ptr                                       c:/program files (x86)/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-impure.o)
+_init                                             c:/program files (x86)/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/armv7e-m/crti.o
+                                                  c:/program files (x86)/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-init.o)
+_mainCRTStartup                                   c:/program files (x86)/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m/crt0.o
+_start                                            c:/program files (x86)/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m/crt0.o
+atexit                                            c:/program files (x86)/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-atexit.o)
+                                                  c:/program files (x86)/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-__call_atexit.o)
+exit                                              c:/program files (x86)/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-exit.o)
+                                                  c:/program files (x86)/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m/crt0.o
+free                                              c:/program files (x86)/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-__call_atexit.o)
+hardware_init_hook                                c:/program files (x86)/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m/crt0.o
+main                                              obj\Debug\Src\main.o
+                                                  obj\Debug\Setup\startup.o
+                                                  c:/program files (x86)/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m/crt0.o
+malloc                                            c:/program files (x86)/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-__atexit.o)
+memset                                            c:/program files (x86)/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-memset.o)
+                                                  c:/program files (x86)/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m/crt0.o
+software_init_hook                                c:/program files (x86)/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m/crt0.o
+start                                             c:/program files (x86)/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m/crt0.o
